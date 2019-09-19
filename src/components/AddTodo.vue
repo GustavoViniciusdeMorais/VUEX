@@ -45,6 +45,7 @@ input[type="submit"]{
     flex: 2;
     background: #41b883;
     color: #fff;
+    padding: 10px;
     border: 1px #41b883 solid;
     cursor: pointer;
 }
